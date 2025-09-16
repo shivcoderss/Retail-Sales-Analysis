@@ -1,0 +1,9 @@
+product_id,product_name,category,sub_category,price
+101,Apple iPhone 14,Electronics,Mobile,79999.0
+102,Samsung Galaxy S23,Electronics,Mobile,74999.0
+103,Sony Headphones,Electronics,Accessories,4999.0
+104,Nike Running Shoes,Fashion,Footwear,5999.0
+105,Levi’s Jeans,Fashion,Clothing,2999.0
+106,LG Smart TV,Electronics,TV,55999.0
+107,Adidas T-shirt,Fashion,Clothing,1999.0
+108,Puma Backpack,Fashion,Accessories,2499.0
